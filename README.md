@@ -1,5 +1,5 @@
 # StyleCop MSBuild configuration & Rules
-===========================
+
 
 This repository includes a MSBuild custom configuration file that will add StyleCop Analyzers for each project in a solution. It also contains a ruleset to be used by StyleCop Analyzers.
 
